@@ -1,2 +1,3 @@
 Give me a user data
 Then Process the Data
+And Give a new avatar
